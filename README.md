@@ -115,3 +115,26 @@ Below is a visual walkthrough of the tool's results and interface.
 
 ![Final Status](images/Screenshot_9.png)
 
+# Legal Information
+
+## ⚖️ License & Disclaimer
+
+### Non-Commercial Use Only
+This tool is provided for **educational, research, and internal security auditing purposes only**. Commercial use of this tool (e.g., as part of a paid consulting service or a commercial product) is strictly prohibited without prior authorization.
+
+---
+
+### CIS Benchmarks Copyright
+The CIS Benchmarks are the property of the **Center for Internet Security (CIS)**. This tool facilitates access to official resources but does not host or redistribute copyrighted material. 
+
+> [!IMPORTANT]
+> Users are responsible for complying with the [CIS Non Membership & Licensing terms](https://www.cisecurity.org/terms-of-use-for-non-member-cis-products).
+
+---
+
+### Liability
+This software is provided **"as is"**, without warranty of any kind. The author is not responsible for any damage, data loss, or system instability caused by the use of this tool. 
+
+**Use it at your own risk.**
+
+
