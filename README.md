@@ -69,10 +69,7 @@
 ### HTML App (`.html`)
 
 - **Pending**: Checks that failed and need fixing.
-  - **Copy Path**: Copies the registry path to clipboard.
-  - **Open (Win+R)**: Generates a command to open Regedit directly to the key.
 - **Fixed**: Items you have marked as fixed during your session.
-- **Passed**: Items that were already compliant.
 - **Passed**: Items that were already compliant.
 
 ## Gallery - Workflow & Results
