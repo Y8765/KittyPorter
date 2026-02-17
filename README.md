@@ -21,7 +21,7 @@
 
 - **🌐 HTML Actionable App**:
   - Modern, responsive UI with Dark Mode.
-  - **One-Click Remediation**: Copy registry paths or generate `powershell` commands to fix issues instantly.
+  - **One-Click Remediation**: Copy registry paths to view. verify and fix issues instantly.
   - **Interactive Filtering**: Filter by category or status (Pending, Fixed, Passed).
   - **Progress Tracking**: Save your progress to a JSON file and resume later.
   - **Offline Ready**: No external server required; everything runs locally.
