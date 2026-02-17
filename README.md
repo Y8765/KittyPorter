@@ -3,7 +3,9 @@
 # 🐈‍⬛ KittyPorter
 ### Make Hardening Kitty Reports Great Again
 
-<img src="images/logo.png" width="550" alt="KittyPorter Cyberpunk Logo">
+<img src="images/logo.png" width="600" alt="KittyPorter Logo">
+
+</div>
 
 ## Features
 
